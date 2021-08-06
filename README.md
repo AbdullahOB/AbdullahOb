@@ -58,3 +58,7 @@
 
 </details>
 
+[twitter]: https://twitter.com/Abdulla51475999
+[instagram]: https://www.instagram.com/abdullah.m.obaid/
+[linkedin]: https://www.linkedin.com/in/abdullah-obaid-a32b621a1/
+
