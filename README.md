@@ -38,13 +38,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
 [twitter]: https://twitter.com/Abdulla51475999
 [instagram]: https://www.instagram.com/abdullah.m.obaid/
 [linkedin]: https://www.linkedin.com/in/abdullah-obaid-a32b621a1/
