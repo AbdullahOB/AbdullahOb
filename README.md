@@ -3,7 +3,7 @@
 ## I'm a Software Eng. !!
 
 - 🌱 I’m currently learning React, React Native, ML.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to read books and play guitar.
 
 ### Contact with me:
