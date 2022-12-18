@@ -2,8 +2,8 @@
 
 ## I'm a Software Eng. !!
 
-- 🌱 I’m currently learning React, React Native, ML.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🌱 I’m currently learning data analysis, deeper laravel concepts and Web3 Technologies.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to read books and play guitar.
 
 ### Contact with me:
