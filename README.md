@@ -1,12 +1,11 @@
-### Hi there, I'm Abdullah 👋
+## Hi there, I'm Abdullah 👋
 
-## I'm a Software Eng. !!
+### I'm a Software Engineer.
 
-- 🌱 I’m currently learning data analysis, deeper laravel concepts and Web3 Technologies.
 - 🥅 2023 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to read books and play guitar.
 
-### Contact with me:
+### Contact me:
 
 [<img align="left" alt="AbdullahObaid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AbdullahObaid | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
